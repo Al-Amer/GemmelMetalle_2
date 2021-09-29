@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Gemmel Metalle</string>
+    <string name="Choose_a_shape">Wähle eine Form</string>
+    <string name="all_kanalschachtabdeckung">ALLGEMEINE KANALSCHACHTABDECKUNG</string>
+    <string name="fensterbank_tropfbleche">FENTERBANK/TROPFBLECHE</string>
+    <string name="hut_profil">HUT-PROFIL</string>
+    <string name="mauerwerkabdeckung">MAUERWERKABDECKUNG</string>
+    <string name="seitenabdeckung">SEITENABDECKUNG</string>
+    <string name="u_profil">U-PROFIL</string>
+    <string name="u_profil__c_profil">U-PROFIL / C-PROFIL</string>
+    <string name="wanne">WANNE</string>
+    <string name="wanne2_2g">WANNE 2/2G</string>
+    <string name="wanne2_2n">WANNE 2/2N</string>
+    <string name="wanne3_1">WANNE 3/1</string>
+    <string name="wanne3_seitig">WANNE 3-SEITIG</string>
+    <string name="winkel">WINKEL</string>
+    <string name="z_profil">Z-PROFIL</string>
+    <string name="broject_key">key</string>
+
+    <string-array name="type">
+        <item>@string/all_kanalschachtabdeckung</item>
+        <item>@string/fensterbank_tropfbleche</item>
+        <item>@string/hut_profil</item>
+        <item>@string/mauerwerkabdeckung</item>
+        <item>@string/seitenabdeckung</item>
+        <item>@string/u_profil</item>
+        <item>@string/u_profil__c_profil</item>
+        <item>@string/wanne</item>
+        <item>@string/wanne2_2g</item>
+        <item>@string/wanne2_2n</item>
+        <item>@string/wanne3_1</item>
+        <item>@string/wanne3_seitig</item>
+        <item>@string/winkel</item>
+        <item>@string/z_profil</item>
+    </string-array>
+    <string name="aus_ein">aus/ein</string>
+    <string name="calculator">Rechnen</string>
+    <string name="edit_text_text">Measure in MM</string>
+
+
+</resources>
